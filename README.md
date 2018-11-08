@@ -32,7 +32,7 @@
 
 #### 下载Git
 
-- ![使用这个链接以获取多操作系统安装Git的教程](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [使用这个链接以获取多操作系统安装Git的教程](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 > 安装完成后使用下述命令验证Git是否安装成功
 
@@ -287,6 +287,8 @@ git clone [repository url]
 ![提起pr](./assets/4.png)
 
 2. 一旦上述完成，开发人员1需要输入`pull request`的标题和描述，最后点击`提交合并请求`，开发人员1还需要为此拉取请求分配审查人，由于你是开发组长，他将你标记为审查人
+
+![pr配置](./assets/5.png)
 
 3. 开发组长将会审核`feature/login`的代码并在审核完成后将其代码合并到`release/project`分支
 
